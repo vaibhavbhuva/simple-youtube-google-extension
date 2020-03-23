@@ -1,0 +1,23 @@
+/* Author : Vaibhav Bhuva */
+
+button#extBtn {
+    background-color: orange;
+    border-radius: 2px;
+    color: #fff;
+    padding:10px 16px;
+    margin: auto 4px;
+    white-space: nowrap;
+    font-size: 1.4rem;
+    font-weight: 500;
+    letter-spacing: .007px;
+    text-transform: uppercase;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -ms-flex-direction: row;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    border:0;
+    cursor: pointer;
+    outline: 0;
+}
